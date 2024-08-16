@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pulse</string>
+    <string name="login">Электронная почта</string>
+    <string name="pass">Пароль</string>
 </resources>
